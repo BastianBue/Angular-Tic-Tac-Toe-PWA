@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tic-tac-d992d": {
+      "hosting": {
+        "Angular-Test": [
+          "tic-tac-d992d"
+        ]
+      }
+    }
+  }
+}
